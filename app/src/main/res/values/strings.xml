@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Game</string>
+    <string name="norm">普通模式</string>
+    <string name="fog">迷雾模式</string>
+    <string name="exit">退&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;出</string>
+    <string name="about">关&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;于</string>
+    <string name="win">胜利</string>
+    <string name="lose">失败</string>
+    <string name="goon">继续</string>
+    <string name="quit">退出</string>
+    <string name="grade">用时</string>
+</resources>
